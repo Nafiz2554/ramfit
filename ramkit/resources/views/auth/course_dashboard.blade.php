@@ -3,7 +3,6 @@
     <div class="container" style="padding-top: 150px; padding-bottom: 20px;">
         <div class="row align-items-center">
             <div class="col-md-4 text-center">
-                {{-- <img src="/images/a3.png" alt="" class="profile-img1"> --}}
                 @if (isset($profile->profile_img))
                     <img src="{{ asset('/storage/' . $profile->profile_img) }}" class="profile-img1">
                 @else
@@ -92,8 +91,8 @@
                             <!-- Add your Dashboard table content here -->
                             <thead>
                                 <tr>
-                                    <th>Column1</th>
-                                    <th>Column2</th>
+                                    <th>data 1</th>
+                                    <th>data 2</th>
                                     <!-- Add more columns as needed -->
                                 </tr>
                             </thead>
