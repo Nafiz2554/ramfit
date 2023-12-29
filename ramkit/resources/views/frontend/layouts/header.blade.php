@@ -176,18 +176,19 @@
     </div>
 </header>
 
-<div class="menu d-flex flex-column align-items-end justify-content-start text-right menu_mm trans_400">
+<div style="border:1px solid grey;" class="menu d-flex flex-column align-items-center justify-content-start text-center menu_mm trans_400">
     <div class="menu_close_container">
         <div class="menu_close">
             <div></div>
             <div></div>
         </div>
     </div>
+    <img style="margin-right: 21px;" src="images/fabicon.png" alt="">
 
-    <nav class="menu_nav">
+    <nav class="menu_nav" style="border:1px solid black; padding:10px; border-radius:20px;">
         <ul class="menu_mm">
-            <div class="shopping_cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></div>
-            <li class="menu_mm"><a href="index.html">Home</a></li>
+            <li class="menu_mm"><a href=" "><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</a></li>
+            <li class="menu_mm"><a href="/">Home</a></li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -216,7 +217,7 @@
             <li class="menu_mm"><a href="#">Mediverse</a></li>
             <button class="custom-button p-2">Donate Now</button>
 
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown mt-1">
                 <a style="background: #2a3b8f;color:white;" class="nav-link dropdown-toggle" href="#"
                     id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                     aria-expanded="false">

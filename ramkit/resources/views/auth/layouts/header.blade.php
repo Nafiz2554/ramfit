@@ -94,7 +94,7 @@
 
                         <nav class="main_nav_contaner ml-auto">
                             <ul class="main_nav">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li class="nav-item dropdown" style="border: 1px solid white;">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
                                         role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -102,14 +102,14 @@
                                         About
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">About Ramfit</a>
+                                        <a class="dropdown-item" href="/about-ramfit">About Ramfit</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Team Ramfit</a>
+                                        <a class="dropdown-item" href="/team-ramfit">Team Ramfit</a>
                                         <div class="dropdown-divider"></div>
-                                        <a class="dropdown-item" href="#">Contact Us</a>
+                                        <a class="dropdown-item" href="/contact-us">Contact Us</a>
                                     </div>
                                 </li>
-                                <li><a href="courses.html">Courses</a></li>
+                                <li><a href="/all-courses">Courses</a></li>
                                 <li class="nav-item dropdown" style="border: 1px solid white;">
                                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
                                         role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -117,7 +117,7 @@
                                         Study
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <a class="dropdown-item" href="#">Schedule</a>
+                                        <a class="dropdown-item" href="/all-schedule">Schedule</a>
                                         <div class="dropdown-divider"></div>
                                         <a class="dropdown-item" href="#">Workshop</a>
                                     </div>
@@ -192,29 +192,29 @@
 
     <nav class="menu_nav" style="border:1px solid black; padding:10px; border-radius:20px;">
         <ul class="menu_mm">
-            <li class="menu_mm"><a href="index.html"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</a></li>
-            <li class="menu_mm"><a href="index.html">Home</a></li>
+            <li class="menu_mm"><a href=" "><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</a></li>
+            <li class="menu_mm"><a href="/">Home</a></li>
             <li class="nav-item dropdown" style="border: 1px solid white;">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">About Ramfit</a>
+                    <a class="dropdown-item" href="/about-ramfit">About Ramfit</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Team Ramfit</a>
+                    <a class="dropdown-item" href="/team-ramfit">Team Ramfit</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Contact Us</a>
+                    <a class="dropdown-item" href="/contact-us">Contact Us</a>
                 </div>
             </li>
-            <li class="menu_mm"><a href="#">Courses</a></li>
+            <li class="menu_mm"><a href="/all-courses">Courses</a></li>
             <li class="nav-item dropdown" style="border: 1px solid white;">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Study
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Schedule</a>
+                    <a class="dropdown-item" href="/all-schedule">Schedule</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="#">Workshop</a>
                 </div>
