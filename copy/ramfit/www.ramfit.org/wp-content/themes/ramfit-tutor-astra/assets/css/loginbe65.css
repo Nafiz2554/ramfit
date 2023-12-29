@@ -1,0 +1,12 @@
+/* Login Page */
+#login {
+    padding: 4% 0 0;
+}
+#login h1 a, .login h1 a {
+    background-image: url('../../../../uploads/2021/07/cropped-cropped-ramfit-favicon_512x512-white-bg-1-192x192.png') !important;
+    height: 120px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+}

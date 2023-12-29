@@ -1,0 +1,63 @@
+
+/* Flexbox Classes */
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+.flex-item {
+    flex: 1 1 auto;
+    margin: 5px;
+}
+
+/* RAMFIT Teams Page */
+.circ-img-wrap { 
+    border: 5px solid #8498d7; 
+    border-radius: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content; 
+    align-self: center;
+    overflow: hidden;
+}
+
+.circ-img-wrap .elementor-element-populated {
+    padding: 0 !important;
+}
+
+.circ-img-wrap img {
+    border-radius: 50% !important;
+    transition: 0.5s all ease-in-out;
+}
+
+.circ-img-wrap img:hover {
+    transform: scale(1.1);
+}
+
+/* Woocommerce Pages */
+.ast-article-single {
+    margin-top: 120px !important;
+    margin-bottom: 60px !important;
+}
+.ast-woocommerce-container {
+    margin-top: 60px !important;
+}
+
+.nav-link.btn.btn-primary {
+  background-color: #2a3b8f;
+  border-color: #2a3b8f;
+  color: white;
+  box-shadow: unset;
+}
+
+.dropdown-menu .dropdown-item {
+  background-color: #336e6a;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #2a3b8f;
+}

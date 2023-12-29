@@ -1,0 +1,42 @@
+
+/* Global Variables */
+:root {
+    --tutor-primary-color: #2a3b8f;
+    --tutor-primary-hover-color: #1b52a9;
+    --tutor-text-color: #2a3b8f;
+    --tutor-light-color: #B1B8C9;
+    --tutor-primary-button-color: #3E64DE;
+    --tutor-danger-button-color: #F44337;
+    --tutor-success-button-color: #4BD863;
+    --tutor-warning-button-color: #ED9700;
+    --tutor-text-size: 16px;
+}
+
+/* Custom Class Modifications */
+.tutor-dashboard,
+.tutor-full-width-course-top,
+.tutor-single-lesson-wrap {
+    margin-top: 120px !important;
+}
+
+.etlms-card {
+    z-index: unset !important;
+}
+
+/* Custom tel input field style */
+.tutor-form-group input[type="tel"] {
+        width: 100%;
+    display: block;
+    border: 1px solid #dcdfe5;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background: #ffffff;
+    line-height: 48px;
+    padding: 0;
+    text-indent: 15px;
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    font-size: 16px;
+}

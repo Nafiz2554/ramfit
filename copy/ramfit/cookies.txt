@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ramfit.org	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/wp-admin	FALSE	1999999999	wordpress_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpress_logged_in_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpress_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpress_sec_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpressuser_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpresspass_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wp-postpass_3900e6652103e5a8e2028cbdcbc03670	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wfwaf-authcookie-746102618726d52c63f93f47200d1509	%20
+www.ramfit.org	TRUE	/	FALSE	1999999999	wp_woocommerce_session_3900e6652103e5a8e2028cbdcbc03670	deleted
+www.ramfit.org	TRUE	/	FALSE	1999999999	PHPSESSID	d1u8jtta9ltrt7dvqu012qftu3
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	8G2zOdYVNXEARyRnO7p66x2bQRKWXI68sXDKbWTBBFc-1699635900-0-AQY4UB6d4Ca7WxPuO6vWqLyMaEpi2B2J9z28NBTsFJ4OF1gJSnHjQbIFiG8FhiHdu4a1DNeUvMpqg4cySRYg53U=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.ramfit.org	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

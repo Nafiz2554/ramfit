@@ -1,0 +1,132 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Nov 2023 22:57:05 at https://www.ramfit.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ramfit.org/ -O1 "D:\ramkit\copy\ramfit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:59:30	Error: 	"Forbidden" (403) at link https://www.ramfit.org/xmlrpc.php?rsd (from https://www.ramfit.org/)
+23:00:53	Warning: 	Found for https://www.ramfit.org/dashboard/
+23:00:53	Warning: 	File has moved from https://www.ramfit.org/dashboard/ to https://www.ramfit.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.ramfit.org%2Fdashboard%2F
+23:00:59	Warning: 	Found for https://www.ramfit.org/dashboard/logout/
+23:00:59	Warning: 	File has moved from https://www.ramfit.org/dashboard/logout/ to https://www.ramfit.org/dashboard/
+23:01:23	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=5719 (from https://www.ramfit.org/)
+23:01:34	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=5066 (from https://www.ramfit.org/)
+23:01:43	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=4686 (from https://www.ramfit.org/)
+23:01:48	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=3724 (from https://www.ramfit.org/)
+23:02:00	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=1205 (from https://www.ramfit.org/)
+23:02:49	Error: 	"Gone" (410) at link https://js.hs-scripts.com/20497887.js?integration=WordPress (from https://www.ramfit.org/)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/$&/ (from https://www.ramfit.org/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/makeMarkdown.txt (from https://www.ramfit.org/wp-includes/js/dist/blocks.min.js?ver=7204d43123223474471a)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/src/index.js (from https://www.ramfit.org/wp-content/plugins/donation-for-woocommerce/assets/js/gutenberg_shortcode_block/build/index.js?ver=3.2)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/get (from https://www.ramfit.org/wp-includes/js/plupload/moxie.min.js?ver=1.3.5)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/post (from https://www.ramfit.org/wp-includes/js/plupload/plupload.min.js?ver=2.1.9)
+23:03:05	Error: 	"Not Found" (404) at link https://www.ramfit.org/async-upload.php (from https://www.ramfit.org/wp-includes/js/plupload/handlers.min.js?ver=6.4.1)
+23:03:05	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8523
+23:03:05	Warning: 	File has moved from https://www.ramfit.org/?p=8523 to https://www.ramfit.org/fatwas/
+23:03:23	Warning: 	Moved Permanently for https://www.ramfit.org/?p=7841
+23:03:23	Warning: 	File has moved from https://www.ramfit.org/?p=7841 to https://www.ramfit.org/publications/
+23:03:24	Warning: 	Moved Permanently for https://www.ramfit.org/?p=16
+23:03:24	Warning: 	File has moved from https://www.ramfit.org/?p=16 to https://www.ramfit.org/cart/
+23:03:26	Warning: 	Moved Permanently for https://www.ramfit.org/?p=60
+23:03:26	Warning: 	File has moved from https://www.ramfit.org/?p=60 to https://www.ramfit.org/about-ramfit/
+23:03:27	Warning: 	Moved Permanently for https://www.ramfit.org/?p=62
+23:03:27	Warning: 	File has moved from https://www.ramfit.org/?p=62 to https://www.ramfit.org/team-ramfit/
+23:03:29	Warning: 	Moved Permanently for https://www.ramfit.org/?p=64
+23:03:29	Warning: 	File has moved from https://www.ramfit.org/?p=64 to https://www.ramfit.org/contact-us/
+23:03:30	Warning: 	Moved Permanently for https://www.ramfit.org/?p=381
+23:03:30	Warning: 	File has moved from https://www.ramfit.org/?p=381 to https://www.ramfit.org/ramfit-courses/
+23:03:31	Warning: 	Moved Permanently for https://www.ramfit.org/?p=70
+23:03:31	Warning: 	File has moved from https://www.ramfit.org/?p=70 to https://www.ramfit.org/study-schedule/
+23:03:33	Warning: 	Moved Permanently for https://www.ramfit.org/?p=66
+23:03:33	Warning: 	File has moved from https://www.ramfit.org/?p=66 to https://www.ramfit.org/ramfit-workshops/
+23:03:34	Warning: 	Moved Permanently for https://www.ramfit.org/?p=414
+23:03:34	Warning: 	File has moved from https://www.ramfit.org/?p=414 to https://www.ramfit.org/donate-now/
+23:03:35	Warning: 	Moved Permanently for https://www.ramfit.org/?p=741
+23:03:35	Warning: 	File has moved from https://www.ramfit.org/?p=741 to https://www.ramfit.org/login/
+23:03:41	Warning: 	Moved Permanently for https://www.ramfit.org/?p=20
+23:03:41	Warning: 	File has moved from https://www.ramfit.org/?p=20 to https://www.ramfit.org/my-account/
+23:03:50	Warning: 	Moved Permanently for https://www.ramfit.org/?p=5721
+23:03:50	Warning: 	File has moved from https://www.ramfit.org/?p=5721 to https://www.ramfit.org/courses/fiqh-of-medicine/
+23:04:21	Error: 	"Not Found" (404) at link https://www.ramfit.org/wp-includes/js/tinymce/langs/en.js (from https://www.ramfit.org/courses/fiqh-of-medicine/)
+23:04:24	Warning: 	Moved Permanently for https://www.ramfit.org/?p=5053
+23:04:24	Warning: 	File has moved from https://www.ramfit.org/?p=5053 to https://www.ramfit.org/courses/medical-fiqh-of-fasting/
+23:04:27	Warning: 	Moved Permanently for https://www.ramfit.org/?p=4644
+23:04:27	Warning: 	File has moved from https://www.ramfit.org/?p=4644 to https://www.ramfit.org/courses/fiqh-of-medicine-level-2-2/
+23:04:27	Error: 	"Not Found" (404) at link https://www.ramfit.org/%22https:/www.ramfit.org/courses/fiqh-of-medicine-level-2-2/ (from https://www.ramfit.org/courses/fiqh-of-medicine-level-2-2/)
+23:04:27	Error: 	"Error when decompressing" (-1) at link https://www.ramfit.org/courses/fiqh-of-medicine-level-2-2/lessons/রোগের-কাফফারা-ও-ক্ষতিপূর/ (from https://www.ramfit.org/courses/fiqh-of-medicine-level-2-2/)
+23:04:27	Warning: 	Moved Permanently for https://www.ramfit.org/?p=3694
+23:04:27	Warning: 	File has moved from https://www.ramfit.org/?p=3694 to https://www.ramfit.org/courses/fiqh-of-medicine-level-2/
+23:04:31	Warning: 	Moved Permanently for https://www.ramfit.org/?p=1242
+23:04:31	Warning: 	File has moved from https://www.ramfit.org/?p=1242 to https://www.ramfit.org/courses/fiqh-of-medicine-farz-e-ayn/
+23:04:31	Warning: 	Moved Permanently for https://www.ramfit.org/?p=68
+23:04:31	Warning: 	File has moved from https://www.ramfit.org/?p=68 to https://www.ramfit.org/ramfit-webinars/
+23:04:45	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/art=5168 (from https://www.ramfit.org/ramfit-webinars/)
+23:04:47	Warning: 	Moved Permanently for https://www.ramfit.org/?p=172
+23:04:47	Warning: 	File has moved from https://www.ramfit.org/?p=172 to https://www.ramfit.org/terms-conditions/
+23:04:48	Warning: 	Moved Permanently for https://www.ramfit.org/?p=174
+23:04:48	Warning: 	File has moved from https://www.ramfit.org/?p=174 to https://www.ramfit.org/refund-return-policy/
+23:04:50	Warning: 	Moved Permanently for https://www.ramfit.org/?p=3
+23:04:50	Warning: 	File has moved from https://www.ramfit.org/?p=3 to https://www.ramfit.org/privacy-policy/
+23:04:54	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8
+23:04:54	Warning: 	File has moved from https://www.ramfit.org/?p=8 to https://www.ramfit.org/dashboard/
+23:05:00	Warning: 	Moved Permanently for https://www.ramfit.org/?p=9
+23:05:00	Warning: 	File has moved from https://www.ramfit.org/?p=9 to https://www.ramfit.org/student-registration/
+23:05:02	Error: 	"Not Found" (404) at link https://www.ramfit.org/GET (from https://www.ramfit.org/wp-content/plugins/tutor/assets/packages/plyr/plyr.polyfilled.min.js?ver=1.9.15)
+23:05:02	Error: 	"Not Found" (404) at link https://www.ramfit.org/this.config.iconUrl,window.location (from https://www.ramfit.org/wp-content/plugins/tutor/assets/packages/plyr/plyr.polyfilled.min.js?ver=1.9.15)
+23:05:11	Error: 	"Not Found" (404) at link https://www.ramfit.org/window.location.href (from https://www.ramfit.org/wp-content/plugins/tutor/assets/js/tutor-front.js?ver=1.9.15)
+23:05:11	Error: 	"Not Found" (404) at link https://www.ramfit.org/-negative.svg (from https://www.ramfit.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5)
+23:05:11	Error: 	"Not Found" (404) at link https://www.ramfit.org/OPR/ (from https://www.ramfit.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5)
+23:05:11	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8534
+23:05:11	Warning: 	File has moved from https://www.ramfit.org/?p=8534 to https://www.ramfit.org/is-it-possible-to-use-the-quran-as-a-cure-for-a-physical-disease-if-so-could-you-please-name-a-specialist-in-this-kind-of-therapy/
+23:05:11	Error: 	"Forbidden" (403) at link https://www.ramfit.org/xmlrpc.php (from https://www.ramfit.org/is-it-possible-to-use-the-quran-as-a-cure-for-a-physical-disease-if-so-could-you-please-name-a-specialist-in-this-kind-of-therapy/)
+23:05:15	Error: 	"Not Found" (404) at link https://www.ramfit.org/wp-json/wp/v2/users/116 (from https://www.ramfit.org/author/mshishir/)
+23:05:17	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8532
+23:05:17	Warning: 	File has moved from https://www.ramfit.org/?p=8532 to https://www.ramfit.org/testing-fatwa-page-posts/
+23:05:28	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://www.ramfit.org/wp-content/plugins/tutor-pro/addons/tutor-certificate/assets/js/html2canvas.min.js?ver=6.4.1)
+23:05:28	Warning: 	Found for https://www.ramfit.org/courses/fiqh-of-medicine-farz-e-ayn/assignments/get-ques-link-from-description/
+23:05:28	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine-farz-e-ayn/assignments/get-ques-link-from-description/ to https://www.ramfit.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.ramfit.org%2Fcourses%2Ffiqh-of-medicine-farz-e-ayn%2Fassignments%2Fget-ques-link-from-description%2F
+23:05:29	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/You%20need%20either%20https:/github.com/niklasvh/html2canvas%20or%20https:/github.com/cburgmer/rasterizeHTML.js (from https://www.ramfit.org/wp-content/plugins/tutor-pro/addons/tutor-certificate/assets/js/js-pdf.js?ver=6.4.1)
+23:05:29	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/certificate.jpg (from https://www.ramfit.org/wp-content/plugins/tutor-pro/addons/tutor-certificate/assets/js/html-to-image.js?ver=6.4.1)
+23:05:29	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8060
+23:05:29	Warning: 	File has moved from https://www.ramfit.org/?p=8060 to https://www.ramfit.org/courses/fiqh-of-medicine/lessons/claas-video/
+23:05:31	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8031
+23:05:31	Warning: 	File has moved from https://www.ramfit.org/?p=8031 to https://www.ramfit.org/courses/fiqh-of-medicine/lessons/class-1-shykh-mufti-abdur-rohman/
+23:05:32	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8032
+23:05:32	Warning: 	File has moved from https://www.ramfit.org/?p=8032 to https://www.ramfit.org/courses/fiqh-of-medicine/lessons/class-2-shykh-mufti-abul-hasnat-qasim/
+23:05:32	Warning: 	Found for https://www.ramfit.org/courses/fiqh-of-medicine/lessons/pdf/
+23:05:32	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine/lessons/pdf/ to https://www.ramfit.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.ramfit.org%2Fcourses%2Ffiqh-of-medicine%2Flessons%2Fpdf%2F
+23:05:34	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8310
+23:05:34	Warning: 	File has moved from https://www.ramfit.org/?p=8310 to https://www.ramfit.org/courses/fiqh-of-medicine/lessons/basics-of-uloom-al-hadith-part-1/
+23:05:34	Warning: 	Found for https://www.ramfit.org/courses/fiqh-of-medicine/lessons/basics-of-uloom-al-hadith-part-2/
+23:05:34	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine/lessons/basics-of-uloom-al-hadith-part-2/ to https://www.ramfit.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.ramfit.org%2Fcourses%2Ffiqh-of-medicine%2Flessons%2Fbasics-of-uloom-al-hadith-part-2%2F
+23:05:37	Warning: 	Moved Permanently for https://www.ramfit.org/courses/fiqh-of-medicine/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/
+23:05:37	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/ to https://www.ramfit.org/courses/fiqh-of-medicine/Moment%20Timezone%20requires%20Moment.js.%20See%20https:/momentjs.com/timezone/docs/
+23:05:37	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/Trident/ (from https://www.ramfit.org/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110)
+23:05:37	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/Edge/ (from https://www.ramfit.org/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110)
+23:05:37	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/edge/ (from https://www.ramfit.org/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110)
+23:05:37	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/mobile/ (from https://www.ramfit.org/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110)
+23:05:37	Error: 	"Not Found" (404) at link https://www.ramfit.org/courses/fiqh-of-medicine/process/browser.js (from https://www.ramfit.org/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110)
+23:05:45	Warning: 	Moved Permanently for https://www.ramfit.org/courses/fiqh-of-medicine/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements/
+23:05:45	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine/TinyMCE does not support the browser you are using. For a list of supported browsers please see: https://www.tinymce.com/docs/get-started/system-requirements/ to https://www.ramfit.org/courses/fiqh-of-medicine/TinyMCE%20does%20not%20support%20the%20browser%20you%20are%20using.%20For%20a%20list%20of%20supported%20browsers%20please%20see:%20https:/www.tinymce.com/docs/get-started/system-requirements/
+23:05:46	Warning: 	Moved Permanently for https://www.ramfit.org/?p=4614
+23:05:46	Warning: 	File has moved from https://www.ramfit.org/?p=4614 to https://www.ramfit.org/courses/fiqh-of-medicine-level-2/lessons/orientation-muzakara/
+23:05:46	Warning: 	Found for https://www.ramfit.org/courses/fiqh-of-medicine-level-2/lessons/it-tutorial/
+23:05:46	Warning: 	File has moved from https://www.ramfit.org/courses/fiqh-of-medicine-level-2/lessons/it-tutorial/ to https://www.ramfit.org/wp-login.php?redirect_to=https%3A%2F%2Fwww.ramfit.org%2Fcourses%2Ffiqh-of-medicine-level-2%2Flessons%2Fit-tutorial%2F
+23:05:49	Warning: 	Moved Permanently for https://www.ramfit.org/?p=5144
+23:05:49	Warning: 	File has moved from https://www.ramfit.org/?p=5144 to https://www.ramfit.org/courses/davidson-medicine/
+23:05:49	Error: 	"Not Found" (404) at link https://www.ramfit.org/%22https:/www.ramfit.org/courses/davidson-medicine/ (from https://www.ramfit.org/courses/davidson-medicine/)
+23:05:57	Warning: 	Moved Permanently for https://www.ramfit.org/?p=10
+23:05:57	Warning: 	File has moved from https://www.ramfit.org/?p=10 to https://www.ramfit.org/instructor-registration/
+23:05:58	Warning: 	Moved Permanently for https://www.ramfit.org/?p=9015
+23:05:58	Warning: 	File has moved from https://www.ramfit.org/?p=9015 to https://www.ramfit.org/edit/
+23:06:00	Warning: 	Moved Permanently for https://www.ramfit.org/?p=8499
+23:06:00	Warning: 	File has moved from https://www.ramfit.org/?p=8499 to https://www.ramfit.org/how-to-write-an-essay-for-sale-and-boost-it/
+23:06:15	Error: 	"Not Found" (404) at link https://www.ramfit.org/wp-json/wp/v2/users/119 (from https://www.ramfit.org/author/ashraf/)
+23:06:15	Warning: 	Moved Permanently for https://www.ramfit.org/?p=1
+23:06:15	Warning: 	File has moved from https://www.ramfit.org/?p=1 to https://www.ramfit.org/hello-world/
+23:06:15	Error: 	"Not Found" (404) at link https://www.ramfit.org/wp-json/wp/v2/users/1 (from https://www.ramfit.org/author/ramfit_developer/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 10 seconds : 830 links scanned, 750 files written (47354817 bytes overall) [21188373 bytes received at 38524 bytes/sec], 41402866 bytes transferred using HTTP compression in 669 files, ratio 21%, 10.4 requests per connection
+(35 errors, 86 warnings, 0 messages)

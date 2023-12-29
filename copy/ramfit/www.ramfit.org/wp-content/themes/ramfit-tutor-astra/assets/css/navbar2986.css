@@ -1,0 +1,17 @@
+.main-header-bar {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+.main-header-bar-sticky-top {
+  position: fixed;
+  position: -webkit-fixed;
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 100%;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+.main-header-bar-sticky-top  a img {
+    max-width: 280px;
+}
